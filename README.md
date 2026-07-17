@@ -1,4 +1,6 @@
-## This project compared seven regression models and three experimental setups for predicting Parkinson's disease severity from voice features.
+## Prediction of Parkinson's Disease Severity Using Voice Features and Machine Learning
+
+### This project compared seven regression models and three experimental setups for predicting Parkinson's disease severity from voice features.
 
 Among the baseline models, the Random Forest Regressor Chain gave the best accuracy at R squared ~ 0.95, well ahead of any linear approach. 
 
